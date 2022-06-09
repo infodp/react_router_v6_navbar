@@ -40,9 +40,10 @@
 section {
   color: #fff;
   text-shadow: 3px 3px rgba(50,50,70,0.5);
-  background-color: #ffb6b9b0;
+  background-color: #c1f0ad;
+  /* background-color: #56b9aa; */
   height: 100vh;  
 }
 .navBg {
-  background-color: #7952b3;
+  background-color: #1d7d95;
 }
